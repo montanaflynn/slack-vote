@@ -1,0 +1,6 @@
+{
+  "name": "slack vote",
+  "description": "A voting slack bot",
+  "repository": "https://github.com/montanaflynn/slack-vote",
+  "keywords": ["slack", "bot", "vote", "voting"]
+}
